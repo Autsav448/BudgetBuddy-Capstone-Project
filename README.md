@@ -14,7 +14,7 @@ Single-user input. All data will originate from the user and stay within the dev
 - User can daily and monthly transactions.
 - User can view daily transcations graph view.
 - User can select the account type.
-- User can search by Months.
 - User can make dark mode.
-- User can swipe calendar on daily basis.
+- User can search by Months.
 - User can record monthly transaction records.
+- User can swipe calendar on daily basis.
